@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 2nd year Robotics PhD student at Colorado School of Mines. In my time working under Dr. Qi Han in the  [PeCS Lab][https://pecs.mines.edu/], I have run experiments on drone swarms and created an augmented reality test platform using the Meta Quest 3.
+I am currently a 2nd year Robotics PhD student at Colorado School of Mines. In my time working under Dr. Qi Han in the  [PeCS Lab](https://pecs.mines.edu/), I have run experiments on drone swarms and created an augmented reality test platform using the Meta Quest 3.
 
 <!-- A data-driven personal website
 ======
