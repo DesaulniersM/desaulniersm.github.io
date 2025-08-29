@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "aspen.png"
-  name             : "Your Sidebar Name"
+  name             : "Matthew Desaulniers"
   pronouns         : # example: "she/her"  
   bio              : "Robotics PhD student with interests in computer vision, multi-user augmented reality, spatial computing, and mathematics."
   location         : "Golden, Colorado"
