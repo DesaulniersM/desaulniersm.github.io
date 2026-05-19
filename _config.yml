@@ -217,6 +217,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -233,6 +236,15 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
   # _posts
   - scope:
       path: ""
